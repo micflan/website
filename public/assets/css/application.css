@@ -387,6 +387,9 @@ Content
 #content p a
 {
     text-decoration: underline;
+    display: inline-block;
+    margin-top: -40px;
+    padding-top: 40px;
 }
 
 #content p a:hover
